@@ -1,0 +1,17 @@
+{
+  "name": "@stephane-gis/web",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@stephane-gis/class": "^1.0.0",
+    "@stephane-gis/core": "^1.0.0",
+    "@stephane-gis/school": "^1.0.0"
+  }
+}

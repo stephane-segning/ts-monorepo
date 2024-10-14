@@ -1,0 +1,18 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "references": [
+    {
+      "path": "../core"
+    },
+    {
+      "path": "../class"
+    },
+    {
+      "path": "../school"
+    }
+  ],
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "dist"
+  }
+}

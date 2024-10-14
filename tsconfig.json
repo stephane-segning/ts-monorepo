@@ -1,0 +1,20 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "packages/class"
+    },
+    {
+      "path": "packages/core"
+    },
+    {
+      "path": "packages/school"
+    },
+    {
+      "path": "packages/test"
+    },
+    {
+      "path": "packages/web"
+    }
+  ]
+}
